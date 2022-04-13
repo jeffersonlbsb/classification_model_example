@@ -1,2 +1,4 @@
-# Ainda estou trabalhando nesse projeto, tentando encontrar algumas formas de melhorar os resultados obtidos pelos algoritmos.
-# Repito, este projeto ainda não está concluído. Quando estiver pronto eu informarei aqui.
+Sei que ainda tem o que melhorar nesse modelo.
+Se tiver alguma dica que eu possa implementar nesse algoritmo eu ficaria grato.
+
+:)

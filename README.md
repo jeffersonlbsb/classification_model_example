@@ -1,4 +1,3 @@
-Sei que ainda tem o que melhorar nesse algoritmo.
-Se tiver alguma dica que eu possa implementar eu ficaria grato.
+# Observações
 
-:)
+- Os modelos não conseguiram se sair bem por conta de desbalanceamento dos dados. Isso será  consertado logo.
